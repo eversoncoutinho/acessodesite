@@ -109,4 +109,4 @@ media/
 *.db
 *.pid
 
-.credenciais.py
+credenciais.py
