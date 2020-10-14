@@ -108,3 +108,5 @@ media/
 *.pyc
 *.db
 *.pid
+
+.credenciais.py
